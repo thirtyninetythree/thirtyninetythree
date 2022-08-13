@@ -1,7 +1,7 @@
-### Hi there 👋
+### 3️⃣ 0️⃣ 9️⃣ 3️⃣
 
-<!--
-**thirtyninetythree/thirtyninetythree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... web2.5
 - 📫 How to reach me: ... email in bio
 - ⚡ Fun fact: ... I was born 
--->
