@@ -7,19 +7,19 @@
 [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirtyninetythree)](https://github.com/thirtyninetythree/github-readme-stats)
 
 Blockchain Development (EVM)
--web3js
--web3dart
--Solidity
+- web3js
+- web3dart
+- Solidity
 
 
 Languages and Frameworks
--Javascript
--Python
--Dart
+- Javascript
+- Python
+- Dart
 
--Flutter
--ReactJS
--Django
+- Flutter
+- ReactJS
+- Django
 
 First 5 
 
