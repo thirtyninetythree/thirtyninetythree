@@ -11,7 +11,7 @@ Fullstack dev with experience building web and android apps.
 Smart(ai-powered) apps are the future. 
 
 ###Find me on the web
-[![Twitter](https://twitter.com/karanja3093)]
+![Twitter](https://twitter.com/karanja3093)
 
 First 5 Projects:
 
