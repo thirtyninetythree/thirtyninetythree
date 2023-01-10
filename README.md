@@ -6,11 +6,11 @@
 
 [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirtyninetythree)](https://github.com/thirtyninetythree/github-readme-stats)
 
-###Experience
+### Experience
 Fullstack dev with experience building web and android apps. 
-Smart(ai-powered) apps are the future. 
+Working on smart(ai-powered) apps as they are the future. 
 
-###Find me on the web
+### Find me on the web
 ![Twitter](https://twitter.com/karanja3093)
 
 First 5 Projects:
