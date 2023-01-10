@@ -6,20 +6,9 @@
 
 [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirtyninetythree)](https://github.com/thirtyninetythree/github-readme-stats)
 
-Blockchain Development (EVM)
-- web3js
-- web3dart
-- Solidity
-
-
-Languages and Frameworks
-- Javascript
-- Python
-- Dart
-
-- Flutter
-- ReactJS
-- Django
+##Experience
+Fullstack dev with experience building web and android apps. 
+Smart(ai-powered) apps are the future. 
 
 First 5 
 
