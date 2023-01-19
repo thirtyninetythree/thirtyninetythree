@@ -4,7 +4,7 @@
 
 ### 📘 Experience
 Fullstack dev with experience building web and android apps. 
-Working on smart(ai-powered) apps as they are the future. 
+I've built apps with Flutter, React, Javascript, Django, Rust
 
 
 ### ⚡ Currently Working On
