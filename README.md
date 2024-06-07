@@ -4,8 +4,8 @@
 
 ### 📘 Experience
 Fullstack dev with experience building web and android apps. 
-I've built apps with Flutter, React, Javascript, Django, Rust
+I've built apps with Flutter, React, Javascript, Django, Go
 
 
 ### ⚡ Currently Working On
-Learning Rust so that I can build system level infrastructure. 
+Learning Go so that I can build system level infrastructure. 
