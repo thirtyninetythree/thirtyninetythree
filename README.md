@@ -3,5 +3,6 @@
 
 
 ### 📘 Experience
-Fullstack dev with experience building web and android apps. 
-Currently working at an agtech serving 6 million farmers with technology powered advisories
+Full-stack developer with hands-on experience building web and mobile applications 
+
+Currently, I’m contributing to an agtech organization that empowers 6 million farmers with tech-driven advisories, helping to improve agricultural productivity and livelihoods.
