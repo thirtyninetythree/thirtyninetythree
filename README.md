@@ -4,8 +4,4 @@
 
 ### 📘 Experience
 Fullstack dev with experience building web and android apps. 
-I've built apps with Flutter, React, Javascript, Django, Go
-
-
-### ⚡ Currently Working On
-Learning Go so that I can build system level infrastructure. 
+Currently working at an agtech serving 6 million farmers with technology powered advisories
